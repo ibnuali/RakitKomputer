@@ -1,1 +1,31 @@
-Repo Django Rest Api
+#About Project
+Information System Online Shop. use Django Rest API for backend and AngularJS 2 for Frontend
+
+link github angularJS : https://github.com/ibnualii/TokoHardware
+
+#Setting Enviroment :
+
+1. Python recommended version 3.5 or higher
+2. Django Rest FrameWork
+3. Swagger Documentation
+4. MysqlClient
+
+
+Install mysqlclient for Windows :
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#mysqlclient
+
+pip install 
+
+Install mysqlclient for linux (debian) :
+
+sudo apt-get install python-dev python3-dev
+sudo apt-get install libmysqlclient-dev
+
+pip3 install mysqlclient
+
+
+# Developer
++ Fariz Aotearoa Rasyid ( FrontEnd Developer)
++ Ibnu Ali Mukhtarom ( BackEnd Developer)
++ Niko Sumanda Sibarani (FrontEnd Developer)
